@@ -1,2 +1,2 @@
 # Movie-Recommendation
-A small neural net to recommend movies to the user
+A small Neural Network that recommends movies to the user. Note: this is only for learning purposes!
