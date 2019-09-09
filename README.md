@@ -1,5 +1,5 @@
 # Movie-Recommendation
-A small Neural Network that recommends movies to the user. 
+A small Neural Network that recommends movies to the user using a hybrid recommendation system. 
 
 Note: this is only for learning purposes! 
 
